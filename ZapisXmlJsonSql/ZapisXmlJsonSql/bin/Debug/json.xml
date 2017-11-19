@@ -1,0 +1,33 @@
+<Root>
+  <Root>
+    <root>
+      <root>
+        <_id>
+          <_x0024_oid>5968dd23fc13ae04d9000001</_x0024_oid>
+        </_id>
+        <product_name>sildenafil citrate</product_name>
+        <supplier>L Inc</supplier>
+        <quantity>261</quantity>
+        <unit_cost>$10.47</unit_cost>
+      </root>
+      <root>
+        <_id>
+          <_x0024_oid>5968dd23fc13ae04d9000002</_x0024_oid>
+        </_id>
+        <product_name>Mountain Juniperus ashei</product_name>
+        <supplier>Keebler-Hilpert</supplier>
+        <quantity>292</quantity>
+        <unit_cost>$8.74</unit_cost>
+      </root>
+      <root>
+        <_id>
+          <_x0024_oid>5968dd23fc13ae04d9000003</_x0024_oid>
+        </_id>
+        <product_name>Dextromathorphan HBr</product_name>
+        <supplier>Schmitt-Weissnat</supplier>
+        <quantity>211</quantity>
+        <unit_cost>$20.53</unit_cost>
+      </root>
+    </root>
+  </Root>
+</Root>
