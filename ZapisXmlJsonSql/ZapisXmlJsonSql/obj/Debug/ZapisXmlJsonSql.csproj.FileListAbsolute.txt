@@ -7,7 +7,3 @@ c:\users\s426134\source\repos\ZapisXmlJsonSql\ZapisXmlJsonSql\obj\Debug\ZapisXml
 c:\users\s426134\source\repos\ZapisXmlJsonSql\ZapisXmlJsonSql\obj\Debug\ZapisXmlJsonSql.csproj.CoreCompileInputs.cache
 c:\users\s426134\source\repos\ZapisXmlJsonSql\ZapisXmlJsonSql\obj\Debug\ZapisXmlJsonSql.exe
 c:\users\s426134\source\repos\ZapisXmlJsonSql\ZapisXmlJsonSql\obj\Debug\ZapisXmlJsonSql.pdb
-C:\Users\s426134\source\repos\ZapisXmlJsonSql\ZapisXmlJsonSql\bin\Debug\EntityFramework.dll
-C:\Users\s426134\source\repos\ZapisXmlJsonSql\ZapisXmlJsonSql\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\s426134\source\repos\ZapisXmlJsonSql\ZapisXmlJsonSql\bin\Debug\EntityFramework.xml
-C:\Users\s426134\source\repos\ZapisXmlJsonSql\ZapisXmlJsonSql\bin\Debug\EntityFramework.SqlServer.xml
